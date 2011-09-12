@@ -1,0 +1,4 @@
+colocar a possibilidade de escolha de potenciometro, switch(2 e 3 posições) e button
+geração tambem na vertical
+mais opções de knobs
+seria interessante se o aplicativo desse a opção de salvar as configurações.
