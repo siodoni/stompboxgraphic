@@ -1,0 +1,1 @@
+Gerador gráfico de equalizações de pedais.
